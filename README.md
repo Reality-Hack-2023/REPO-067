@@ -2,11 +2,19 @@
 
 ## Enhancing Navigation for the Visually Impaired through Virtual Reality and Haptic Feedback
 
+<table>
+  <tr>
+    <td>
+     Haptic Vision is an innovative assistive technology designed to improve navigation and spatial awareness for individuals with visual impairments. By integrating virtual reality (VR) and haptic feedback, Haptic Vision aims to enhance independence and quality of life for the visually impaired population.
+    </td>
+     <td>
+      <img src="https://user-images.githubusercontent.com/39020723/218214123-f66f583e-3f93-461e-9d06-ebd59a3d3cc9.jpg" alt="project overview" width="2600px">
+    </td>
+  </tr>
+</table>
 
 
-Haptic Vision is an innovative assistive technology designed to improve navigation and spatial awareness for individuals with visual impairments. By integrating virtual reality (VR) and haptic feedback, Haptic Vision aims to enhance independence and quality of life for the visually impaired population.
 
-<img src="https://user-images.githubusercontent.com/39020723/218214123-f66f583e-3f93-461e-9d06-ebd59a3d3cc9.jpg" alt="project overview" width="600px">
 
 ## Table of Contents
 
